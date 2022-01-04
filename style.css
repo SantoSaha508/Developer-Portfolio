@@ -1,0 +1,31 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.clr{
+    color: orange;
+}
+.section1{
+    display: flex;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.fstdiv{
+    width: 50%;
+    padding-left: 4%;
+}
+.fstdiv img{
+    width: 80%;
+}
+.hire{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    border-radius: 5px;
+    padding: 12px 30px;
+    color: rgb(250, 246, 243);
+    font-weight: 700;
+}
